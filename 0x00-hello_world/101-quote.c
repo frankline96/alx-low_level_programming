@@ -14,4 +14,3 @@ int main(void)
 >>>>>>> 5a4ea96da9f2d6ab1c0bf39dbb15cf26ca9a2699
 	return (1);
 }
-
